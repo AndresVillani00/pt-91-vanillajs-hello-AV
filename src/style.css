@@ -1,1 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.generador-header {
+  padding: 200px;
+  text-align: center;
+}
